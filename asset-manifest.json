@@ -1,10 +1,6 @@
 {
-  "runtime~main.js": "/ApplicationStore/static/js/runtime~main.96dedffe.js",
-  "runtime~main.js.map": "/ApplicationStore/static/js/runtime~main.96dedffe.js.map",
-  "vendors.js": "/ApplicationStore/static/js/vendors.3d2fa2a7.chunk.js",
-  "vendors.js.map": "/ApplicationStore/static/js/vendors.3d2fa2a7.chunk.js.map",
-  "main.css": "/ApplicationStore/static/css/main.281095e4.chunk.css",
-  "main.js": "/ApplicationStore/static/js/main.f4fa0fcb.chunk.js",
-  "main.js.map": "/ApplicationStore/static/js/main.f4fa0fcb.chunk.js.map",
-  "index.html": "/ApplicationStore/index.html"
+  "main.css": "static/css/main.3617ad8e.css",
+  "main.css.map": "static/css/main.3617ad8e.css.map",
+  "main.js": "static/js/main.39b030d7.js",
+  "main.js.map": "static/js/main.39b030d7.js.map"
 }
